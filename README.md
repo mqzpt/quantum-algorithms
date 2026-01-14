@@ -1,0 +1,1 @@
+Programming of Quantum Computing Algorithms, University of Waterloo (W2026)
